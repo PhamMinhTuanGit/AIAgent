@@ -1,0 +1,15 @@
+langchain
+llama-cpp-python
+chromadb
+langchain-community
+pypdf
+sentence-transformers
+unstructured == 0.10.30
+pdfminer
+tiktoken
+pdfminer.six
+pi_heif
+unstructured_inference
+pdf2image
+langchain-huggingface
+nltk
