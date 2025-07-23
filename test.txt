@@ -1,0 +1,7 @@
+(.venv) parallels@ubuntu-linux-2404:~/Documents/code/AIAgent$ python3 chain.py "What is machine learning?"
+Device set to use cpu
+===Question===
+What is machine learning?
+=== Answer ===
+Machine learning draws upon techniques from a wide range of fields, including com puter science, statistics, and mathematics. For this reason, there is significant varia tion in the terminology used in the discussions of machine learning: Neural networks are typically created with all parameters initialized as small random values from a Gaussian or normal uniform. Once an observation (or more often a set number of observations called a batch) is fed through the network, the outputted value is compared with the observation’s true value using a loss function. This is called forward propagation. Next an algorithm goes “backward” through the network identifying how much each parameter contributed to the error between the predicted
+
